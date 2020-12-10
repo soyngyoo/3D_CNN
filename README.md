@@ -4,4 +4,3 @@
 <img src="./3d_grad_cam.png">
 
 ### * Paper link : https://arxiv.org/abs/2010.14824
-### * implementation (Dataset : 3d CAD of mechanical parts)
